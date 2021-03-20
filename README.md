@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-``const OMAR_ANGARITA = {
+`const OMAR_ANGARITA = {
     "nombre": "Omar Eduardo Angarita Jiménez",
     "lenguajes": ["Python", "MongoDB/MySQL", "NodeJs", "Javascript"],
     "Control_versiones": ["git", "github"],
@@ -38,7 +38,7 @@
     "arquitectura": ["Single Page Applications", "Command Line Application", "Desktop Application"],
     "proyectoActual": "",
 };
-``
+`
 
 
 <!--
