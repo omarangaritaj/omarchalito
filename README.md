@@ -1,3 +1,16 @@
+<h2> 
+    ¡Hola! Soy Omar E. Angarita Jiménez
+</h2>
+<p>
+<script src="https://momentjs.com/downloads/moment-with-locales.min.js"></script>
+<script>
+var = Datetime.now()
+</script>
+<img id="edad" src="https://img.shields.io/badge/age-v41%20stable-orange">
+<img src="https://img.shields.io/badge/build%20life-passing-green">
+<img src="https://img.shields.io/badge/tests%20life-6%20passed%2C%202%20failed%2C%201%20skipped-informational">
+</p>
+
 ### Hi there 👋
 
 `const OMAR_ANGARITA = {
