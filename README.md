@@ -11,9 +11,9 @@ var = Datetime.now()
 <img src="https://img.shields.io/badge/tests%20life-6%20passed%2C%202%20failed%2C%201%20skipped-informational">
 </p>
 
-### Hi there 👋
+// No es const porque siempre estoy aprendiendo algo nuevo
 
-`const OMAR_ANGARITA = {
+let omar_angarta = {
     "nombre": "Omar Eduardo Angarita Jiménez",
     "lenguajes": ["Python", "MongoDB/MySQL", "NodeJs", "Javascript"],
     "Control_versiones": ["git", "github"],
@@ -31,27 +31,36 @@ var = Datetime.now()
     "tecnologías": {
         "frontEnd": {
             "framework": ["VueJs".level("basic")],
-            "HTML5": ["html".level("median")],
+            "HTML5": ["html".level("intermediate")],
             "css": ["bootstrap"]
         },
         "backEnd": {
-            "python": [fastapi.level("median"), flask.level("median"), django.level("median")],
+            "python": [
+                fastapi.level("intermediate"),
+                flask.level("intermediate"),
+                django.level("intermediate"),
+                Selenium.level("intermediate"),
+                scrapy.level("intermediate") // Web Scraping
+            ],
             "js": ["node".level("medium"), "express".level("basic")]
         },
-        "devOps": ["Docker", "ssh", "Azure", "AWS", "Apache"],
-        "databases": [mysql.level("median"), mongodb.level("median")],
+        "devOps": ["Docker", "ssh", "Azure", "Amazon Web Services (AWS)", "Apache"],
+        "basesDatos": [mysql.level("intermediate"), mongodb.level("intermediate")],
         "SO": {
-            "linux": ["ubuntu", "ubuntu server", "centOS"],
-            "windows": "Desde Win3.1 hasta Win10",
-            "Rasbian": true,
+            "linux": [{ "kubuntu": "Principal" }, "ubuntu server", "centOS"],
+            "windows": [
+                "Desde Win3.1 hasta Win10".level("highest"),
+                "Win Server desde NT hasta 2019"
+            ],
+            "Rasbian": true, // Rasberry pi 3 y 4
+            "Arduino": true,
             "android": true
         },
         "misc": ["Firebase", "Auth0"]
     },
     "arquitectura": ["Single Page Applications", "Command Line Application", "Desktop Application"],
-    "proyectoActual": "",
+    "proyectoActual": ["Sistema de gestión de turnos", "WebScraping"]
 };
-`
 
 
 <!--
