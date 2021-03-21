@@ -1,16 +1,17 @@
 <h2> 
-    ¡Hola! Soy Omar E. Angarita Jiménez
+    ¡Hola! Soy Omar E. Angarita J.
 </h2>
+<h3>el_titiritero</h3>
 <p>
-<script src="https://momentjs.com/downloads/moment-with-locales.min.js"></script>
-<script>
-var = Datetime.now()
-</script>
 <img id="edad" src="https://img.shields.io/badge/age-v41%20stable-orange">
 <img src="https://img.shields.io/badge/build%20life-passing-green">
+<img src="https://img.shields.io/badge/python->=3.5-blue">
 <img src="https://img.shields.io/badge/tests%20life-6%20passed%2C%202%20failed%2C%201%20skipped-informational">
 </p>
 
+
+
+```javascript
 // No es const porque siempre estoy aprendiendo algo nuevo
 
 let omar_angarta = {
@@ -48,10 +49,7 @@ let omar_angarta = {
         "basesDatos": [mysql.level("intermediate"), mongodb.level("intermediate")],
         "SO": {
             "linux": [{ "kubuntu": "Principal" }, "ubuntu server", "centOS"],
-            "windows": [
-                "Desde Win3.1 hasta Win10".level("highest"),
-                "Win Server desde NT hasta 2019"
-            ],
+            "windows": ["Desde Win3.1 hasta Win10".level("highest"), "Win Server desde NT hasta 2019"],
             "Rasbian": true, // Rasberry pi 3 y 4
             "Arduino": true,
             "android": true
@@ -61,19 +59,4 @@ let omar_angarta = {
     "arquitectura": ["Single Page Applications", "Command Line Application", "Desktop Application"],
     "proyectoActual": ["Sistema de gestión de turnos", "WebScraping"]
 };
-
-
-<!--
-**omarchalito/omarchalito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
