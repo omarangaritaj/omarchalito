@@ -12,14 +12,13 @@
 
 
 ```javascript
-// No es const porque siempre estoy aprendiendo algo nuevo
 
 let omar_angarta = {
     "nombre": "Omar Eduardo Angarita Jiménez",
-    "lenguajes": ["Python", "MongoDB/MySQL", "NodeJs", "Javascript"],
-    "Control_versiones": ["git", "github"],
-    "aprendiendo": ["Machine Learning en Python", "UX/UI", "PWA", "ThreeJS"],
-    "antiguos_lenguajes": ["C", "bash (sh)"],
+    "lenguajes": ["Python", "MongoDB/MySQL", "NodeJs", "Javascript", "Ruby"],
+    "Control_versiones": ["git", "github", "bitbucket"],
+    "aprendiendo": ["Machine Learning en Python", "React", "PWA", "ThreeJS"],
+    "antiguos_lenguajes": ["C", "bash (sh)", "C#"],
     "otros": ["POO", "Patrones de diseño".level("basic")],
     "sobreMi": {
         "Velocidad de aprendizaje": "Excepcional",
@@ -40,10 +39,11 @@ let omar_angarta = {
                 fastapi.level("intermediate"),
                 flask.level("intermediate"),
                 django.level("intermediate"),
+                rails.level("intermediate"),
                 Selenium.level("intermediate"),
                 scrapy.level("intermediate") // Web Scraping
             ],
-            "js": ["node".level("medium"), "express".level("basic")]
+            "js": ["node".level("medium"), "express".level("medium")]
         },
         "devOps": ["Docker", "ssh", "Azure", "Amazon Web Services (AWS)", "Apache"],
         "basesDatos": [mysql.level("intermediate"), mongodb.level("intermediate")],
