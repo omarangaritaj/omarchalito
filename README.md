@@ -19,7 +19,7 @@ let omar_angarta = {
     "Control_versiones": ["git", "github", "bitbucket"],
     "aprendiendo": ["Machine Learning en Python", "React", "PWA", "ThreeJS"],
     "antiguos_lenguajes": ["C", "bash (sh)", "C#"],
-    "otros": ["POO", "Patrones de diseño".level("basic")],
+    "otros": ["POO", "Patrones de diseño".level("advance")],
     "sobreMi": {
         "Velocidad de aprendizaje": "Excepcional",
         "Varias carreras técnicas": true,
@@ -30,11 +30,12 @@ let omar_angarta = {
     },
     "tecnologías": {
         "frontEnd": {
-            "framework": ["VueJs".level("basic")],
-            "HTML5": ["html".level("intermediate")],
+            "framework": ["ReactJs".level("basic")],
+            "HTML5": ["html".level("advance")],
             "css": ["bootstrap"]
         },
         "backEnd": {
+            "ruby": [rails.level("advance")]
             "python": [
                 fastapi.level("intermediate"),
                 flask.level("intermediate"),
@@ -43,7 +44,7 @@ let omar_angarta = {
                 Selenium.level("intermediate"),
                 scrapy.level("intermediate") // Web Scraping
             ],
-            "js": ["node".level("medium"), "express".level("medium")]
+            "js": ["node".level("advance"), "express".level("advance")]
         },
         "devOps": ["Docker", "ssh", "Azure", "Amazon Web Services (AWS)", "Apache"],
         "basesDatos": [mysql.level("intermediate"), mongodb.level("intermediate")],
